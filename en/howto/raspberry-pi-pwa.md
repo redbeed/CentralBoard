@@ -2,7 +2,7 @@
 Each dashboard on CentralBoard is a progressive web app and can be used on each device that can manage Progressive Web Apps (PWAs).
 
 ## What is a PWA?
-A progressive web app (PWA) is a website that can run as a standalone app on your device. For CentralBoard this means you don't need to waste time to set up an HTML-Page to call your dashboard. Just install the PWA and you are ready.
+A progressive web app is a website that can run as a standalone app on your device. For CentralBoard this means you don't need to waste time to set up an HTML-Page to call your dashboard. Just install the PWA and you are ready.
 
 The most dashboard services force you to create an HTML-Page with a useless iframe workaround to display your dashboard on your raspberry pi or recommend you to use a third-person app to display your board.
 ## Download your dashboard app
@@ -24,4 +24,5 @@ Accept to install CentralBoard on your raspberry pi by pressing "Install".
 Your board is now installed on your raspberry pi and can be opened without open chromium.
 
 ## Run it in kiosk mode
-If you want to start your board in full screen and hide the navigation bar please check out this article. We also explain how you can configure your raspberry pi to start your dashboard automatically and how you can disable the screensaver or hide the mouse.
+If you want to start your board in full screen and hide the navigation bar please check out this article. 
+We also explain how you can configure your raspberry pi to start your dashboard automatically and how you can disable the screensaver or hide the mouse.
